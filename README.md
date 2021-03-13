@@ -43,4 +43,6 @@ After downloading, simply edit the HTML and CSS files included with the template
 
 ## Copyright &amp; License
 
-&copy; 2019 Marios Sofokleous (PictureElement). Code released under the [MIT](LICENSE) license.
+&copy;  (PictureElement). Code released under 
+
+he [MIT](LICENSE) license.
